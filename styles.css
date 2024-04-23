@@ -1,0 +1,20 @@
+.carga {
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+}
+
+.giffy {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.ocultar {
+    display: none !important;
+  }
