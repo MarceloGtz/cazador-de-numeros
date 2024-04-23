@@ -22,3 +22,7 @@
   .ox-webar-default, ox-root {
     display: none !important;
   }
+
+  a {
+    display: none !important;
+  }
